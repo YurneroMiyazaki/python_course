@@ -1,7 +1,7 @@
 import requests
 
 # Your API key
-api_key = "e5126c117643d13ccbed3770a34a1852"
+api_key = "API_KEY_HERE"
 
 # The endpoint for the weather forecast API
 url = f"http://api.openweathermap.org/data/2.5/forecast?q=London&appid={api_key}"
